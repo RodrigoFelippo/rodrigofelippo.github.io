@@ -1,0 +1,5 @@
+Comandos para atualizar os codigos git hub
+
+$ git add .
+$ git commit -m "pasta de imagens"
+$ git push origin master
